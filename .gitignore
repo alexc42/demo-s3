@@ -5,7 +5,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/targe
 *.csv
-
+*.pdf
+mvnw
+*.cmd
 ### STS ###
 .apt_generated
 .classpath

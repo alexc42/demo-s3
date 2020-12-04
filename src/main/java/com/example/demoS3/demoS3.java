@@ -15,9 +15,9 @@ public class demoS3 {
 		ClientS3 client = new ClientS3();
 		client.s3Client = client.s3client();
 		
-	    String keyName = "a.pptx";
-	    String filePath = "C:\\Users\\N129592\\Downloads\\a.pptx";
-	    String filepathDowload = "C:\\Users\\N129592\\Downloads\\b.pptx";
+	    String keyName = "AD-SER-001.docx";
+	    String filePath = "C:\\Users\\N129592\\Downloads\\AD-SER-001.docx";
+	    String filepathDowload = "C:\\Users\\N129592\\Downloads\\AD-SER-001.docx";
 	    
         try {
         	
